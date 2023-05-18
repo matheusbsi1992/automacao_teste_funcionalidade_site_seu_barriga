@@ -61,5 +61,21 @@ public void finaliza() throws IOException {
 //        }
     }
 ```
+## Padrão de Design utilizados
+<b> 
+-DSL
+</b>
+<br>
+<b> 
+-Page Object
+</b>
+<br>
+
+## Contato do Autor
+
+- [@Matheus Andrade - Linkedin](https://www.linkedin.com/in/matheus-andrade-5201b0236/)
+
+
+
 
 
