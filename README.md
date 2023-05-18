@@ -1,5 +1,5 @@
 
-# Título do Projeto
+# Estudo de Caso Automação de Funcionalidades com Selenium WebDriver
 
 Olá, este projeto ajuda a evidenciar o uso de teste de software automatizado ao uso da ferrmaneta Selenium WebDriver.
 
